@@ -23,6 +23,5 @@
 </div>
 
 ## About me
-- From Rosario, Argentina 
 - From Rosario, Argentina 📍
 
