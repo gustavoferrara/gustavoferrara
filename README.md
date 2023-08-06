@@ -21,7 +21,12 @@
   <img src="https://img.shields.io/badge/Photoshop-001e36?style=for-the-badge&logo=adobephotoshop&logoColor=31a8ff" alt="Photoshop"/>
   <img src="https://img.shields.io/badge/Illustrator-330000?style=for-the-badge&logo=adobeillustrator&logoColor=ff9a00" alt="Illustrator"/>
 </div>
+<br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoferrara&layout=compact" alt="Illustrator"/>
+</p>
 
 ## About me
 - From Rosario, Argentina 📍
+
 
